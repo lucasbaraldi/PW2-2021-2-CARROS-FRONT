@@ -81,7 +81,7 @@ function Cadastrar({ pcodigo, atualizaAlerta, editar }) {
 
     return (
         <div style={{ padding: '20px' }}>
-        <h2>Editora</h2>
+        <h2>Marca</h2>
         <form id="formulario" onSubmit={acaoCadastrar}>
             <div className="form-group">
                 <label for="txtId">Código</label>
